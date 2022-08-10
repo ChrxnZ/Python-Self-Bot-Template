@@ -1,2 +1,1 @@
-# Python-Self-Bot-Template
-A Template To Make Your Own Discord Self-Bot! (NOTE THAT THIS IS AGAINST DISCORD TOS AND I AM NOT RESPOSIBLE FOR ANY BANS OR DISABLED ACCOUNTS)
+man gonna work on this later
